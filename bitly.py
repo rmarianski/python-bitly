@@ -1,4 +1,4 @@
-#!/usr/bin/python2.4
+#!/usr/bin/env python
 #
 # Copyright 2009 Empeeric LTD. All Rights Reserved.
 #

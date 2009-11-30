@@ -17,7 +17,7 @@
 try:
     import json as simplejson
 except ImportError:
-    pass
+    import simplejson
 import urllib,urllib2
 import urlparse
 import string
